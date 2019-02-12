@@ -22,11 +22,8 @@ public class SortingTechniques {
 
             }
         }
-        for (int a : st) {
-            System.out.println(a);
-
-
-        }
+        
+        
     }
  void sort(int arr[])
     {
@@ -57,12 +54,7 @@ public class SortingTechniques {
             ar[i] = smallerNumber;
         }
 
-        for(int a:ar)  //Printing elements of array after sorting
-        {
-            System.out.println(a);
-
-
-        }
+        
     }
 
 }
